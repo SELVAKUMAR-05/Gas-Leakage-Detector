@@ -1,0 +1,15 @@
+{
+  "port": "COM5",
+  "baud_rate": 9600,
+  "threshold": 400,
+  "graph_duration": 90,
+  "theme": "Light",
+  "pc_sound": true,
+  "email_enabled": false,
+  "email_recipient": "230524.it@rmkec.ac.in",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_sender": "sangikumar60@gmail.com",
+  "smtp_username": "sangikumar60@gmail.com",
+  "smtp_security": "STARTTLS"
+}
